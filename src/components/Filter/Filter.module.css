@@ -1,0 +1,10 @@
+.formLabel {
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.formInput {
+  margin-top: 15px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
